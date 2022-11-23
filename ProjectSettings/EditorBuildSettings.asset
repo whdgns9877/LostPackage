@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/02.All Scenes/Scenes/ApplicationInit.unity
+    guid: 9d8c7b1ab4dbcc744b0998f9807d8af1
+  - enabled: 1
+    path: Assets/02.All Scenes/Scenes/Main_Scenes/Main.unity
+    guid: 58c6baf5a45306e48aa438e3af61c4be
+  - enabled: 1
+    path: Assets/02.All Scenes/Scenes/Story mode/New_Load.unity
+    guid: 23f1964ed7ed0d140a0bc85df1a95bb5
+  - enabled: 1
+    path: Assets/02.All Scenes/Scenes/Story mode/How_to_play.unity
+    guid: bf071b34d163a534f91e73a2f90af5ed
+  - enabled: 1
+    path: Assets/02.All Scenes/Scenes/Story mode/Stage1/Map1.unity
+    guid: a4ea84d103ef9b64e86e8dc1f147617c
+  - enabled: 1
+    path: Assets/02.All Scenes/Scenes/Story mode/Stage1/Stage1.unity
+    guid: 7586e4f3de9c85f4593693b9ae66c256
+  - enabled: 1
+    path: Assets/02.All Scenes/Scenes/Story mode/Game_over.unity
+    guid: bee5524fb71eb414b969482346be0b81
+  - enabled: 1
+    path: Assets/02.All Scenes/Scenes/Story mode/Game_clear.unity
+    guid: 6a99329f1d3e2b747bc5b00c32d66f64
+  - enabled: 1
+    path: Assets/02.All Scenes/Scenes/Story mode/Stage2/Map2.unity
+    guid: b9095961e53714e4195f915319d28caa
+  - enabled: 1
+    path: Assets/02.All Scenes/Scenes/Story mode/Stage2/Stage2.unity
+    guid: 900383e95043d324ab7056b69f80306f
+  - enabled: 1
+    path: Assets/02.All Scenes/Scenes/Story mode/stage2_over.unity
+    guid: 1584a35140f0a0949bed680308d90bc8
+  - enabled: 1
+    path: Assets/02.All Scenes/Scenes/Story mode/stage2_clear.unity
+    guid: 346271bbdbcef91459be6db070afb00b
+  - enabled: 1
+    path: Assets/02.All Scenes/Scenes/Story mode/Stage3/Map3.unity
+    guid: 7e51456c75f3ad146b4ed3f30e3eb658
+  - enabled: 1
+    path: Assets/02.All Scenes/Scenes/Story mode/Stage3/Stage3.unity
+    guid: 1df7d16a3ba784e42ba556f65aaf43e6
+  - enabled: 1
+    path: Assets/02.All Scenes/Scenes/Story mode/stage3_over.unity
+    guid: 3a5488cf63ee82442aa0a02707cd5f5d
+  - enabled: 1
+    path: Assets/02.All Scenes/Scenes/Story mode/stage3_clear.unity
+    guid: 1641bf5f6ac429144bedcd37b345642e
+  m_configObjects: {}
