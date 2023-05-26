@@ -1,16 +1,13 @@
-# 🎆[ **Team DinoOtoko** ]
+# 🎆[ **Team KeyMaMoo** ]
 
 #
-# 💾 [ **Royal Of Legend Project** ]
+# 💾 [ **Lost Package Project** ]
 ## 🎞️ **Introduce Game**
 &nbsp;
-### AOS장르인 리그 오브 레전드 게임의 모작
+### 1인칭 VR Shooting Game
 
 &nbsp;
-## 플레이 영상
-![Video Label](http://img.youtube.com/vi/7b85Jzz34kk/0.jpg)
 
-[VideoLink] (https://youtu.be/7b85Jzz34kk)
 &nbsp;
 
 &nbsp;
