@@ -5,7 +5,7 @@
 ## 🎞️ **Introduce Game**
 &nbsp;
 ### 1인칭 VR Shooting Game
-
+![LostPackage](https://github.com/whdgns9877/LostPackage/assets/49630123/1efee48e-c107-4e4f-8ff2-6e69a2e29f14)
 &nbsp;
 
 &nbsp;
@@ -17,37 +17,28 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 &nbsp;&nbsp;&nbsp;&nbsp;
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;
-![Unity_Collab](https://github.com/whdgns9877/RoyalOfLegend/assets/49630123/62beb077-f0a3-445f-9fa2-889d0664a53c) UnityCollaborate
+![Daydream64](https://github.com/whdgns9877/LostPackage/assets/49630123/95c143fe-25a4-4909-a2f0-c8ef9039c649)GoogleDayDream
 &nbsp;
 
 &nbsp;
 
 ## 🗓️ 작업 기간
-2020.03.16 ~ 2020.07.03
+2019.03.08 ~ 2019.10.02
 
 &nbsp;
 
 ## 😎 맡은 업무
-* 모든 챔피언들이 사용하는 BaseCharacterController 스크립트 작성
-* 미니언 AI의 생성및 FSM 구현
-* 유니티 프로젝터를 이용한 사거리 표시
-* Tag & Layer를 활용한 적과 아군 구별 구현
+* GoogleVR SDK 연동 및 Player Head Tracking, 컨트롤러 입력시 처리
+* 적 AI의 생성 및 플레이어 추적(NavMeshAgent)
+* 스테이지 클리어 및 플레이어 패배 로직
+* 플레이어 UI
 
 &nbsp;
 
 ## ❕ 깨달은 점
-* 상속을 사용하여 객체지향 프로그래밍에 대한 이해도 증가
-* FSM구조를 활용해 봄으로서 AI, Player의 상태를 관리하기 용이함을 학습
-* 유니티의 Tag 와 Layer를 활용하여 각자의 클라이언트에서 프로세스를 처리하기 용이함을 학습
-* 협업을 위해 Unity Collaborate를 사용하였지만 용량제한, 속도등의 문제로 협업에 용이한 도구가 아님을 깨달음
-
+* GoogleVR SDK를 연동 해봄으로서 프로젝트에 외부 라이브러리 연동하는 방법 학습
+* NavMesh 사용으로 간단한 AI구현 가능
+* 게임의 승리및 패배는 따로 GameManager로 관리하는게 좋다는점을 깨닫게됨
+* VR상에서 UI는 WorldSpace모드를 사용해야 한다는점 확인
 &nbsp;
-
-* Development Log : [Development Log](https://blog.naver.com/whdgns9877/221978358398)
 
